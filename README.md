@@ -1,2 +1,1 @@
-# lab7
-# lab7
+make
